@@ -15,3 +15,6 @@ Online Installation
 Use
 - Start Pixet and load all device confings to appropriate devices OR manually copy all configs to ```C:\Users\<username>\AppData\Local\PixetPro\configs``` on Windows.
 - Copy this script next to Pixet runnable and execute ```AdvacamQuadController.py```
+
+Warning
+- Pixet should not be running along the script. Always use only script or only Pixet.
